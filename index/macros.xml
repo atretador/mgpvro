@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<!-- SPL MK3 -->
+	<entry name="turret_spl_m_akciws_01_mk3_macro" value="extensions\mgpvro\assets\props\weaponsystems\heavy\macros\turret_spl_m_akciws_01_mk3_macro" />
+	<entry name="turret_spl_m_akciws_02_mk3_macro" value="extensions\mgpvro\assets\props\weaponsystems\heavy\macros\turret_spl_m_akciws_02_mk3_macro" />
+	<entry name="bullet_gen_turret_m_gatling_01_mk3_macro" value="extensions\mgpvro\assets\fx\weaponfx\macros\bullet_gen_turret_m_gatling_01_mk3_macro" />
+
+	<!-- SPL MK3B, its the same but yellow -->
+	<entry name="turret_spl_m_akciws_01_mk3b_macro" value="extensions\mgpvro\assets\props\weaponsystems\heavy\macros\turret_spl_m_akciws_01_mk3b_macro" />
+	<entry name="turret_spl_m_akciws_02_mk3b_macro" value="extensions\mgpvro\assets\props\weaponsystems\heavy\macros\turret_spl_m_akciws_02_mk3b_macro" />
+	<entry name="bullet_gen_turret_m_gatling_01_mk3b_macro" value="extensions\mgpvro\assets\fx\weaponfx\macros\bullet_gen_turret_m_gatling_01_mk3b_macro" />
+
+	<!-- SPL HG MK1 -->
+	<entry name="turret_spl_l_heavygatling_mk1_macro" value="extensions\mgpvro\assets\props\weaponsystems\heavy\macros\turret_spl_l_heavygatling_mk1_macro" />
+	<entry name="bullet_gen_turret_l_gatling_01_mk1_macro" value="extensions\mgpvro\assets\fx\weaponfx\macros\bullet_gen_turret_l_gatling_01_mk1_macro" />
+</index>

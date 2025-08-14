@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/language">
+	<page id="13082025">
+		<t id="1">AK-SPL CIWS Turret MK3</t>
+		<t id="2">Engineered for relentless point-defense, intercepting incoming missiles and nimble targets with ease.</t>
+		<t id="3">AK-SPL</t>
+		<t id="4">AK-SPL CIWS Turret MK3B</t>
+		<t id="5">Engineered for relentless point-defense, intercepting incoming missiles and nimble targets with ease - but yellow.</t>
+		<t id="6">AK-SPL B</t>
+		<t id="7">HG-SPL Heavy Gatling Turret MK1</t>
+		<t id="8">This oversized gatling gun trades projectile speed for long reach and sustained fire.</t>
+		<t id="9">HG-SPL MK1</t>
+	</page>
+  </add>
+</diff>  

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+  <macro name="turret_spl_m_akciws_01_mk3b_macro" class="turret" alias="turret_spl_m_akciws_02_mk3b_macro">
+    <component ref="turret_spl_m_gatling_01_mk1" />
+    <properties>
+      <identification name="{13082025,4}" basename="{13082025,4}" shortname="{13082025,6}" makerrace="split" description="{13082025,5}" />
+      <bullet class="bullet_gen_turret_m_gatling_01_mk3b_macro" />
+      <rotationspeed max="240" />
+      <reload rate="1" time="1" />
+      <hull threshold="0.2" integrated="1" />
+      <effects>
+        <firing start="startshooting_gen_s_gatling_01_mk1" stop="stopshooting_gen_s_gatling_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="turret_gatling_muzzle" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content name="mpgvro" author="atretador" version="1.0">
+  <dependency id="ws_1696862840" optional="false" name="Variety and Rebalance Overhaul"/>
+</content>

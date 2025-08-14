@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+     <add sel="/wares">
+        <ware id="turret_spl_m_akciws_01_mk3_wares" name="{13082025,1}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+            <price min="68900" average="72100" max="80200" />
+            <component ref="turret_spl_m_akciws_01_mk3_macro"/>
+            <production time="15" amount="1" method="default" name="{13082025,1}">
+            <primary>
+                    <ware ware="advancedelectronics" amount="95" />
+                    <ware ware="energycells" amount="72" />
+                    <ware ware="weaponcomponents" amount="185" />
+            </primary>
+            </production>
+            <restriction licence="militaryequipment" />
+            <use threshold="0.1" />
+            <owner faction="split" />
+            <owner faction="court" />
+            <owner faction="freesplit" />
+        </ware>
+
+        <ware id="turret_spl_m_akciws_02_mk3_wares" name="{13082025,1}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+            <price min="68900" average="72100" max="80200" />
+            <component ref="turret_spl_m_akciws_02_mk3_macro"/>
+            <production time="15" amount="1" method="default" name="{13082025,1}">
+            <primary>
+                    <ware ware="advancedelectronics" amount="95" />
+                    <ware ware="energycells" amount="72" />
+                    <ware ware="weaponcomponents" amount="185" />
+            </primary>
+            </production>
+            <restriction licence="militaryequipment" />
+            <use threshold="0.1" />
+            <owner faction="split" />
+            <owner faction="court" />
+            <owner faction="freesplit" />
+        </ware>
+
+        <ware id="turret_spl_m_akciws_mk3b_01_wares" name="{13082025,4}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+            <price min="68900" average="72100" max="80200" />
+            <component ref="turret_spl_m_akciws_01_mk3b_macro"/>
+            <production time="15" amount="1" method="default" name="{13082025,4}">
+            <primary>
+                    <ware ware="advancedelectronics" amount="95" />
+                    <ware ware="energycells" amount="72" />
+                    <ware ware="weaponcomponents" amount="185" />
+            </primary>
+            </production>
+            <restriction licence="militaryequipment" />
+            <use threshold="0.1" />
+            <owner faction="split" />
+            <owner faction="court" />
+            <owner faction="freesplit" />
+        </ware>
+
+        <ware id="turret_spl_m_akciws_mk3b_02_wares" name="{13082025,4}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+            <price min="68900" average="72100" max="80200" />
+            <component ref="turret_spl_m_akciws_02_mk3b_macro"/>
+            <production time="15" amount="1" method="default" name="{13082025,4}">
+            <primary>
+                    <ware ware="advancedelectronics" amount="95" />
+                    <ware ware="energycells" amount="72" />
+                    <ware ware="weaponcomponents" amount="185" />
+            </primary>
+            </production>
+            <restriction licence="militaryequipment" />
+            <use threshold="0.1" />
+            <owner faction="split" />
+            <owner faction="court" />
+            <owner faction="freesplit" />
+        </ware>
+
+        <ware id="turret_spl_l_heavygatling_mk1_01_wares" name="{13082025,7}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+            <price min="268900" average="292100" max="340200" />
+            <component ref="turret_spl_l_heavygatling_mk1_macro"/>
+            <production time="30" amount="1" method="default" name="{13082025,7}">
+            <primary>
+                    <ware ware="advancedelectronics" amount="125" />
+                    <ware ware="energycells" amount="122" />
+                    <ware ware="weaponcomponents" amount="245" />
+            </primary>
+            </production>
+            <restriction licence="militaryequipment" />
+            <use threshold="0.1" />
+            <owner faction="split" />
+            <owner faction="court" />
+            <owner faction="freesplit" />
+        </ware>
+     </add>
+</diff>
